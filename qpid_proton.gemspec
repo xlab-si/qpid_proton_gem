@@ -4,7 +4,7 @@ $:.unshift lib unless $:.include?(lib)
 
 Gem::Specification.new do |s|
   s.name        = "qpid_proton"
-  s.version     = "0.17.0.3"
+  s.version     = "0.18.0"
   s.licenses    = ['Apache-2.0']
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Darryl L. Pierce", "Alan Conway"]
